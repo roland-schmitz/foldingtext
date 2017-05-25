@@ -5,7 +5,7 @@ from _Hog Bay Software_.
 
 It has an easy to use plug-in interface to extend its functionality via Java Script.
 So, I made some plugins for my own use. If you are interested, you can [download]
-them and [drop them into the `foldingtext-plugins` folder][install].
+them and [drop them into your `foldingtext-plugins` folder][install].
 
 ### CaseFlipper
 
