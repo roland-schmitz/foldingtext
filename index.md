@@ -1,10 +1,9 @@
 ## Welcome to my FoldingText plug-ins
 
-[FoldingText](http://www.foldingtext.com) is a Markdown editor with some outstanding and unique features.
+[FoldingText](http://www.foldingtext.com) is a [Markdown](https://de.wikipedia.org/wiki/Markdown) editor with some outstanding and unique features from _Hog Bay Software_.
 
 It has an easy to use plug-in interface to extend its functionality via Java Script.
-
-I made some plugins for my own use.
+So, I made some plugins for my own use.
 If you are interested, you can [download them from here](comingsoon.zip) and [drop them into FoldingText](http://support.hogbaysoftware.com/t/how-to-install-a-plugin/74) `plugins` folder.
 
 ### CaseFlipper
