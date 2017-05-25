@@ -1,0 +1,10 @@
+{
+    "name": "CaseFlipper",
+    "version": "1.0.0",
+    "description": "Press Cmd-Ctrl-K to change the first letter of a typed word from lower case to upper case or vice versa. ",
+    "engines": {
+        "foldingtext": ">=2.0.0",
+        "taskpaper": ">=3.0.0"
+    },
+    "homepage": "https://roland-schmitz.github.io/foldingtext-plugins/"
+}
