@@ -4,14 +4,14 @@
 from _Hog Bay Software_.
 
 It has an easy to use plug-in interface to extend its functionality via Java Script.
-So, I made some plugins for my own use.
-If you are interested, you can [download] them and
-[drop them into `foldingtext-plugins` folder][install].
+So, I made some plugins for my own use. If you are interested, you can [download]
+them and [drop them into the `foldingtext-plugins` folder][install].
 
 ### CaseFlipper
 
-CaseFlipper is a plugin which installs a new keyboard shortcut `cmd-ctrl-K` to change the first letter of the last typed word
-from lower case to upper case or vice versa.
+CaseFlipper is a plugin which installs a new keyboard shortcut `cmd-ctrl-K`
+to change the first letter of the last typed word from lower case to
+upper case or vice versa.
 
 
 [FoldingText]: http://www.foldingtext.com
