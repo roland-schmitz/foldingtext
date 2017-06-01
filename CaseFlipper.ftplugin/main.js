@@ -53,10 +53,11 @@ define(function(require, exports, module) {
 					else {
 						// no changeable letter found
 						// beep()
-						// beep() is not defined and produces an error and FoldingText beeps
+						// beep() is not defined and produces an error and FoldingText beeps, so this would work but ...
 						// todo: find a better solution to play a sound
 					}
 				}
+				editor.setSelectedRanges(ranges)
 			}
         });
     });

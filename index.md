@@ -11,7 +11,7 @@ them and [drop them into your `foldingtext-plugins` folder][install].
 
 CaseFlipper is a plugin which installs a new keyboard shortcut `cmd-ctrl-K`
 to change the first letter of the last typed word from lower case to
-upper case or vice versa.
+upper case or vice versa without changing the cursor position.
 
 ---
 ***Download all plugins:*** [foldingtext-plugins-master.zip][download]
